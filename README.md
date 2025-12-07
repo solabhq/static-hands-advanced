@@ -91,7 +91,7 @@ CapsLock navigation layer for Windows - Extended edition with case transformatio
 | `CapsLock + R` | Rename (F2) |
 | `CapsLock + T` | Select line |
 | `CapsLock + 7` | Tab |
-| `CapsLock + `` ` `` | Close app (Alt+F4) |
+| `CapsLock + Backtick` | Close app (Alt+F4) |
 | `CapsLock + 4` | $$ (LaTeX dollar signs) |
 | `CapsLock + =` | Always on top |
 

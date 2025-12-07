@@ -1,0 +1,51 @@
+═══════════════════════════════════════════════════════════
+    STATIC HANDS - ADVANCED EDITION CHEATSHEET
+═══════════════════════════════════════════════════════════
+
+NAVIGATION (CapsLock +)
+────────────────────────────────────────────────────────────
+  I/K/J/L  = ↑/↓/←/→ Arrows
+  U / O    = Home / End
+  Y / N    = Page Up / Down
+  H        = Delete
+  ;        = Backspace
+  P        = Insert
+
+TEXT EDITING (CapsLock +)
+────────────────────────────────────────────────────────────
+  C = Copy        Z = Undo
+  V = Paste       A = Select All
+  X = Cut         B = Bold
+
+MODIFIERS - Hold (CapsLock +)
+────────────────────────────────────────────────────────────
+  W = Win         S = Alt
+  D = Shift       F = Ctrl
+  
+  Example: CapsLock + D + L = Shift + Right (select)
+
+SPEED NAVIGATION ⚡ (CapsLock +)
+────────────────────────────────────────────────────────────
+  8 = Up 5 lines       , = Down 5 lines
+  M = Left 6 words     . = Right 6 words
+
+CASE TRANSFORM (Select text first, then CapsLock +)
+────────────────────────────────────────────────────────────
+  9 = UPPERCASE        0 = lowercase        - = Title Case
+
+SPECIAL (CapsLock +)
+────────────────────────────────────────────────────────────
+  Q = Escape      7 = Tab         ` = Close app
+  R = Rename      4 = $$          = = Always on top
+  T = Select line
+
+═══════════════════════════════════════════════════════════
+Tips:
+• Week 1: Learn I/K/J/L navigation
+• Week 2: Add C/V/X/Z editing
+• Week 3: Speed & case transform
+
+Run on startup: Win+R → shell:startup → paste shortcut
+
+Print this and keep next to your keyboard! ⌨️
+═══════════════════════════════════════════════════════════

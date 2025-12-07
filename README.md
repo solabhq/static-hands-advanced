@@ -5,7 +5,7 @@ CapsLock navigation layer for Windows - Extended edition with case transformatio
 
 ## 📺 Video Tutorial
 
-[Static-Hands](https://www.youtube.com/@solabhq)
+[![Static Hands Tutorial](https://img.youtube.com/vi/HyXDovTcNtk/maxresdefault.jpg)](https://youtu.be/HyXDovTcNtk)
 
 ## Quick Start
 

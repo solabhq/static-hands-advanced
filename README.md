@@ -118,4 +118,4 @@ The strength of these keybindings is **no hand movement**.
 
 ---
 
-☕ [Support on Ko-fi](https://ko-fi.com/yourname) | 📺 [YouTube Channel](https://youtube.com/@solabhq) 
+☕ [Support on Ko-fi](https://ko-fi.com/solab) | 📺 [YouTube Channel](https://youtube.com/@solabhq) 

@@ -18,8 +18,11 @@ CapsLock navigation layer for Windows - Extended edition with case transformatio
 - `Win+R` → type `shell:startup` → paste script shortcut there
 
 ## Credits & License
+
 **Based on:** [Static Hands](https://github.com/almogtavor/static-hands) by Almog Tavor
+
 **Extended by:** [SoLab HQ](https://youtube.com/@solabhq)
+
 
 ## Available Commands ⏱️
 
@@ -105,14 +108,6 @@ The strength of these keybindings is **no hand movement**.
 - **Week 1:** Focus on `I/K/J/L` navigation
 - **Week 2:** Add text editing (`C/V/X/Z`)
 - **Week 3:** Speed navigation and case transform
-
----
-
-## Credits & License
-
-**Based on:** [Static Hands](https://github.com/almogtavor/static-hands) by Almog Tavor
-
-**Extended by:** [SoLab HQ](https://youtube.com/@solabhq)
 
 ---
 

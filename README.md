@@ -1,7 +1,7 @@
 # Static Hands - Advanced Edition
 CapsLock navigation layer for Windows - Extended edition with case transformation, speed navigation, and text editing shortcuts. Keep hands on home row. Based on Static Hands, extended by SoLab HQ.
 
-## 📺 Video Tutorial
+## 📺 Video Review
 
 [![Static Hands Tutorial](https://img.youtube.com/vi/HyXDovTcNtk/maxresdefault.jpg)](https://youtu.be/HyXDovTcNtk)
 
